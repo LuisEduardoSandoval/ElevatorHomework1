@@ -77,5 +77,6 @@ here is a still image of the current designed panel.
 
 Here everything was simplified to the greatest extent possible without sacrificing understanding.
 Aswell as detailing some useful information such as date, time, and weather.
+The design here attempted to follow a cellphone of which many people use daily therefore making it a bit easier to understand as it is a well established UI.
 
 which can be downloaded or taken from source code.

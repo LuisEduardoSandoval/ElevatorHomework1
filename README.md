@@ -2,12 +2,17 @@
 
 Links
 
- 
-zip file of touch screen: https://github.com/LuisEduardoSandoval/ElevatorHomework1/blob/master/application.windows32.zip
+DEMO{
+  zip file of touch screen: https://github.com/LuisEduardoSandoval/ElevatorHomework1/blob/master/application.windows32.zip
 
 
-Source Code: https://github.com/LuisEduardoSandoval/ElevatorHomework1/blob/master/sketch_elevatorPanel.pde
+  Source Code: https://github.com/LuisEduardoSandoval/ElevatorHomework1/blob/master/sketch_elevatorPanel.pde
+ }
  
+ Presentation Page:
+ 
+ 
+ GitHub repository: 
 
 Elevator from Murry Hall
 Elevator Interface

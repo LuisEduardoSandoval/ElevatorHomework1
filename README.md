@@ -16,11 +16,14 @@ Issues with current design
 
 -The implemented elevator panel is uneven when distributing elevator button
   
--The large Key holes add un-neccesary clutter to the panel 
-  possibly leading to confusion when users are attempting to operate the elevator.
+-The large Key holes add un-neccesary visual clutter to the panel 
+  The issue adds clutter and may lead to problems with visibility when attempting to interact with the panel.
   
--The ground floor could be confusing as it has no number like the other floors 
-  this could confuse users as they see number designation for the floors 2-4 except ground floor
+-The ground floor does not follow the logic of the panel
+  The ground floor is designated with a G while the preceeding floors are designated by numbers. This destroys any consistancy and adds
+  unwanted confusion to users by using letters.
+-The Ground floor button is misplaced creating an unsatisfying Asthetic by adding visual noise.
+
   
 Common uses for an elevator
 -accesing other floors

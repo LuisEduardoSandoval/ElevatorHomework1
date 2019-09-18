@@ -75,4 +75,7 @@ this was selected because a panel is taller than longer following that concept i
 here is a still image of the current designed panel.
 ![](TouchscreenPanel.jpg)
 
+Here everything was simplified to the greatest extent possible without sacrificing understanding.
+Aswell as detailing some useful information such as date, time, and weather.
+
 which can be downloaded or taken from source code.

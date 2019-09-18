@@ -9,10 +9,10 @@ DEMO{
   Source Code: https://github.com/LuisEduardoSandoval/ElevatorHomework1/blob/master/sketch_elevatorPanel.pde
  }
  
- Presentation Page:
+ Presentation Page: https://github.com/LuisEduardoSandoval/ElevatorHomework1/blob/master/README.md
  
  
- GitHub repository: 
+ GitHub repository: https://github.com/LuisEduardoSandoval/ElevatorHomework1
 
 Elevator from Murry Hall
 Elevator Interface

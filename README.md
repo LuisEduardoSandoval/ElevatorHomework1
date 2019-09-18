@@ -58,4 +58,4 @@ When developing an interface the issues faced from simplifying controls is overs
 can no longer understand the panels original purpose, and removing useful information from the panel of which the minority of users need.
 
 Possible Solution Sketch
-![](ElevatorSketch.jpg)
+![](ElevatorSketch.png)

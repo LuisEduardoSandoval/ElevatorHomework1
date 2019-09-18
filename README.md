@@ -59,3 +59,9 @@ can no longer understand the panels original purpose, and removing useful inform
 
 Possible Solution Sketch
 ![](ElevatorSketch.png)
+
+The changes made applied to the first floor which is no longer designated as G, making it easier to understand and follows a pattern.
+The chages made to fire Operations made it more readable for those who may not be able to see it or are color blind.
+The removal of the Key holes allows the user to be less overcome by all uneccisary visual clutter as they serve no purpose for the user.
+
+Designing a touch screen interface.

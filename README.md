@@ -56,3 +56,6 @@ The current design is visually unappealing and over cluttered from a design stan
 
 When developing an interface the issues faced from simplifying controls is oversimplification to the point where the user 
 can no longer understand the panels original purpose, and removing useful information from the panel of which the minority of users need.
+
+Possible Solution Sketch
+![](ElevatorSketch.jpg)

@@ -28,10 +28,6 @@ Issues with current design
 -The large Key holes add un-neccesary visual noise to the panel 
   The issue adds clutter and may lead to problems with visibility when attempting to interact with the panel.
   
-  
--The door open and door closed are signified using only signals 
-    some may not understand the meaning.
-  
 -The ground floor does not follow the logic of the panel
   The ground floor is designated with a G while the preceeding floors are designated by numbers. This destroys any consistancy and adds
   unwanted confusion to users by using letters.
@@ -79,7 +75,7 @@ The desired screen size was 342,600
 this was selected because a panel is taller than longer following that concept i created a panel with touch controls in processing
 here is a still image of the current designed panel.
 
-![](TouchscreenPanel.jpg)
+![](elevatorDemo.gif)
 
 
 Here everything was simplified to the greatest extent possible without sacrificing understanding.

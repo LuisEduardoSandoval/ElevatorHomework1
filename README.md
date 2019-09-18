@@ -65,3 +65,8 @@ The chages made to fire Operations made it more readable for those who may not b
 The removal of the Key holes allows the user to be less overcome by all uneccisary visual clutter as they serve no purpose for the user.
 
 Designing a touch screen interface.
+
+The desired screen size was 342,600
+this was selected because a panel is taller than longer following that concept i created a panel with touch controls in processing
+here is a still image of the current designed panel.
+

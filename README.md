@@ -32,13 +32,16 @@ Issues with current design
   
 Common uses for an elevator
 
--accesing other floors
--moving large objects when stairs are not accesibly
--allowing thoes with disabilities to move floors
+-Accesing other floors
+
+-Moving large objects when stairs are not accesibly
+
+-Allowing thoes with disabilities to move floors
 
 More Rare Uses
 
 -Alert a Fire
+
 -Ask for Assistance
 
 Elevator and Interactions
